@@ -1,6 +1,6 @@
-Auto-didacta
-
-Estudiando
+- 👋 Hola! ahora mismo me encuentro estudiando y armando proyectos propios, proximante estare haciendolos publicos, pero por el momento estan la mayoria en privado...
+- 📫 Actualmente estoy aprendiendo a usar la biblioteca de React.js.
+- 
 
 <!---
 ByJavi/ByJavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
