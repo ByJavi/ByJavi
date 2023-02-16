@@ -1,6 +1,6 @@
 - 👋 Hola! ahora mismo me encuentro estudiando y armando proyectos propios.
 - 📫 Actualmente estoy aprendiendo a usar React con TypeScript.
-- tambien un poco de Nextjs, MongoDB.
+- tambien un poco de Nodejs, MongoDB.
 
 <!---
 ByJavi/ByJavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
