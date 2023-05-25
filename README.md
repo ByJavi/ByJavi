@@ -6,7 +6,9 @@ Soy Javier Ledesma, un argentino de 22 años que actualmente se dedica al estudi
 
 Recientemente, también he comenzado a adentrarme en el entorno back-end, aprendiendo Node.js junto con Express.js.
 
-Constantemente me esfuerzo por aprender nuevas tecnologías y mejorar mis habilidades existentes, ya que creo que la diversidad enriquece nuestros proyectos y nos permite alcanzar resultados excepcionales.
+<p align="left">Constantemente me esfuerzo por aprender nuevas tecnologías y mejorar mis habilidades existentes, ya que creo que la diversidad enriquece nuestros proyectos y nos permite alcanzar resultados excepcionales.</p>
+  
+<p align="left">texto generado por ChatGPT :yum:</p>
 </p>
 </div>
 
