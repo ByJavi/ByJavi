@@ -4,7 +4,7 @@
 <p align="left">
 Soy Javier Ledesma, un argentino de 22 años que actualmente se dedica al estudio autodidacta de varias tecnologías. Hace aproximadamente 1 año que estoy enfocado en el desarrollo front-end, poniendo especial énfasis en tecnologías como ReactJS y Next.js. 
 
-Recientemente, también he comenzado a adentrarme en el entorno back-end, aprendiendo Node.js junto con Express.js.
+<p align="left">Recientemente, también he comenzado a adentrarme en el entorno back-end, aprendiendo Node.js junto con Express.js.</p>
 
 <p align="left">Constantemente me esfuerzo por aprender nuevas tecnologías y mejorar mis habilidades existentes, ya que creo que la diversidad enriquece nuestros proyectos y nos permite alcanzar resultados excepcionales.</p>
   
