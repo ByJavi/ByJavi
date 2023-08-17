@@ -2,7 +2,7 @@
 <div align="center">
 <img align="right" alt="bongoo cat" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" />
 <p align="left">
-Soy Javier Ledesma, un argentino de 21 años que actualmente se dedica al estudio autodidacta de varias tecnologías. Hace aproximadamente 1 año que estoy enfocado en el desarrollo front-end, poniendo especial énfasis en tecnologías como ReactJS y Next.js. 
+Soy Javier Ledesma, un argentino de 22 años que actualmente se dedica al estudio autodidacta de varias tecnologías. Hace aproximadamente 1 año que estoy enfocado en el desarrollo front-end, poniendo especial énfasis en tecnologías como ReactJS y Next.js. 
 
 <p align="left">Recientemente, también he comenzado a adentrarme en el entorno back-end, aprendiendo Node.js junto con Express.js.</p>
 
